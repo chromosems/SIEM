@@ -2,6 +2,7 @@
 
 ## Objective
 The aim of this SIEM project is to capture nmap scan log activity from the agent endpoint, followed by the creation of a tailored dashboard, and concluding with the implementation of alerting mechanisms
+<img width="745" alt="image" src="https://github.com/chromosems/SIEM/assets/44053943/f9d28e47-6d69-4e07-93a9-7e7f9e73b443">
 
 ### Skills Learned
 - Visualization of security Events

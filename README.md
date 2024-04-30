@@ -30,7 +30,7 @@ The aim of this SIEM project is to capture nmap scan log activity from the agent
 - <img width="848" alt="image" src="https://github.com/chromosems/SIEM/assets/44053943/5729a2fd-9d10-4edb-a808-a936e328bf09">
 -*Ref 3: The alert will perform test every after 5 mins*
 - <img width="841" alt="image" src="https://github.com/chromosems/SIEM/assets/44053943/89b4ae3f-5bfd-47c5-a6e3-eafceb02064f">
--
+- In conclusion, I was able to forward the nmap scan data from agent / kali vm  using Elastic agent, queried the logs, created a dashboard and lastly created alerts to detect security events
 
 
 

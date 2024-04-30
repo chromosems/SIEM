@@ -18,6 +18,9 @@ The aim of this SIEM project is to capture nmap scan log activity from the agent
 - Elastic-agent to capture activity from Endpoint( kali machine).
 
 ## Steps
+- Checking if the elastic agent is active and running, the image illustrates a coomand that checks the status and as shown the agent is actively running and enabled
+-<img width="606" alt="image" src="https://github.com/chromosems/SIEM/assets/44053943/580c7f8b-f3a7-48d2-a4f1-971a765a8496">
+
 - Generating Security Events on kali. Using Nmap with command  nmap -Pn (IP address) to discover hosts and services on a network to check for open ports and in this case, open ports are visible on one machine and the other are closed. 
 - <img width="679" alt="image" src="https://github.com/chromosems/SIEM/assets/44053943/548a153a-0dd3-4fb7-983f-5d671bcd0003">
 -*Ref 1: The image demonstartes the captured nmap scanning*
